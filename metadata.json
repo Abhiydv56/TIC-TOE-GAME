@@ -1,0 +1,6 @@
+{
+  "name": "Java Tic-Tac-Toe Studio",
+  "description": "An interactive, feature-rich Tic-Tac-Toe game featuring Minimax AI, multiple grid modes, sound effects, and an interactive Java engine & code explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
